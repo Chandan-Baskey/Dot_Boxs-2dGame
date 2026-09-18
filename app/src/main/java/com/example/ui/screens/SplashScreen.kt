@@ -109,7 +109,7 @@ fun SplashScreen(
 
                 // Game Name Title
                 Text(
-                    text = "Dots & Boxes",
+                    text = "DotBox Duel",
                     fontSize = 34.sp,
                     fontWeight = FontWeight.Black,
                     fontFamily = FontFamily.Serif,
@@ -131,12 +131,12 @@ fun SplashScreen(
 
                 Spacer(modifier = Modifier.height(30.dp))
 
-                // --- STUDIO SECTION: UNIQUE GAMES below as studio name ---
+                // --- STUDIO SECTION: UNIQUEGAMES below as studio name ---
                 Column(
                     horizontalAlignment = Alignment.CenterHorizontally
                 ) {
                     Text(
-                        text = "UNIQUE GAMES",
+                        text = "UNIQUEGAMES",
                         fontSize = 15.sp,
                         fontWeight = FontWeight.Bold,
                         fontFamily = FontFamily.Serif,

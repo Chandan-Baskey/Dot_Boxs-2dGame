@@ -115,7 +115,7 @@ fun HomeScreen(
                         modifier = Modifier.align(Alignment.Center)
                     ) {
                         Text(
-                            text = "UNIQUE GAMES",
+                            text = "UNIQUEGAMES",
                             fontSize = 15.sp,
                             fontWeight = FontWeight.Bold,
                             fontFamily = FontFamily.Serif,
@@ -189,7 +189,7 @@ fun HomeScreen(
 
                 // Main Title in larger, bold, hand-drawn font
                 Text(
-                    text = "Dots & Boxes",
+                    text = "DotBox Duel",
                     fontSize = 36.sp,
                     fontWeight = FontWeight.Black,
                     fontFamily = FontFamily.Serif,

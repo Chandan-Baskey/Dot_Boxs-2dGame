@@ -1,6 +1,6 @@
 {
-  "name": "Dots and Boxes",
-  "description": "A classic pen-and-paper Dots and Boxes game with authentic paper texture, hand-drawn strokes, 2-player local mode, and smart AI.",
+  "name": "DotBox Duel",
+  "description": "A classic pen-and-paper DotBox Duel game with authentic paper texture, hand-drawn strokes, 2-player local mode, and smart AI.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }

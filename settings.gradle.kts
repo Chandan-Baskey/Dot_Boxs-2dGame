@@ -22,6 +22,6 @@ dependencyResolutionManagement {
   }
 }
 
-rootProject.name = "Dots and Boxes"
+rootProject.name = "DotBox Duel"
 
 include(":app")
