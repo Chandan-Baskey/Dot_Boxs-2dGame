@@ -28,9 +28,9 @@ enum class GridSize(
     val label: String,
     val boxDescriptor: String
 ) {
-    SMALL(3, "3 × 3", "2 × 2 Boxes (Quick)"),
-    CLASSIC(4, "4 × 4", "3 × 3 Boxes (Classic)"),
-    LARGE(5, "5 × 5", "4 × 4 Boxes (Master)");
+    SMALL(4, "4 × 4", "3 × 3 Boxes (9 Boxes)"),
+    CLASSIC(5, "5 × 5", "4 × 4 Boxes (16 Boxes)"),
+    LARGE(6, "6 × 6", "5 × 5 Boxes (25 Boxes)");
 
     val boxGridSize: Int get() = dotsCount - 1
     val totalBoxes: Int get() = boxGridSize * boxGridSize
